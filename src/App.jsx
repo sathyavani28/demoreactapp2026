@@ -23,9 +23,9 @@ function App() {
             <u>Sample React App</u>
           </h2>
 
-        {/* <Demo1/>
+        <Demo1/>
         <Demo2/>
-        <Demo3/> */}
+        <Demo3/>
 
         <Demo4 a={a} b={100} text={txt} emp={emp}/>
 
