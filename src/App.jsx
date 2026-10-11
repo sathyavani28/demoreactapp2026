@@ -10,6 +10,8 @@ import Demo3 from "./pages/Demo3"
 import Demo4 from "./pages/Demo4"
 import Demo5 from "./pages/Demo5"
 import Demo6 from "./pages/Demo6"
+import Demo7 from "./pages/Demo7"
+import Demo8 from "./pages/Demo8"
 
 function App() {
   
@@ -34,6 +36,10 @@ function App() {
         <Demo5 a={a} b={100} text={txt} emp={emp}/>
 
         <Demo6/>
+
+        <Demo7/>
+
+        <Demo8/>
 
     </div>
   )
