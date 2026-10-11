@@ -12,6 +12,7 @@ import Demo5 from "./pages/Demo5"
 import Demo6 from "./pages/Demo6"
 import Demo7 from "./pages/Demo7"
 import Demo8 from "./pages/Demo8"
+import Demo9 from "./pages/Demo9"
 
 function App() {
   
@@ -40,6 +41,8 @@ function App() {
         <Demo7/>
 
         <Demo8/>
+
+        <Demo9/>
 
     </div>
   )
